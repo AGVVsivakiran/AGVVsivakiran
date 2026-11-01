@@ -74,14 +74,6 @@ I'm a Full Stack Developer passionate about building modern web and mobile appli
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AGVVsivakiran/AGVVsivakiran/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
